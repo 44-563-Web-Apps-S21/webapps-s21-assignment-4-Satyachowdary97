@@ -53,3 +53,7 @@ table {
   background-color: #af4c4c;
   color: white;
 }
+.name:hover{
+    text-shadow: 2px 2px 3px #FF0000;
+    border-style: double;
+}
